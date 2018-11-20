@@ -11,6 +11,8 @@ public class Message {
             return "Hola Mundo";
         } else if (lang.equals("fr")) {
             return "Bonjour le monde";
+        } else if (lang.equals("wd")) {
+            return "flakdj8fds fadsads8fdjksh";
         } else {
             return "Hello World";
         }
